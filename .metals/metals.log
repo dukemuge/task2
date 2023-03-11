@@ -1,0 +1,499 @@
+2023.03.09 15:54:47 INFO  Started: Metals version 0.11.11 in workspace '/home/jeff/Videos/task2/task' for client Visual Studio Code 1.76.0.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/jeff/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.09 15:54:50 INFO  time: initialize in 3.07s
+2023.03.09 15:54:54 WARN  Build server is not auto-connectable.
+2023.03.09 15:54:54 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/App.java
+2023.03.09 15:54:57 INFO  time: code lens generation in 3.23s
+2023.03.09 15:58:57 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/App.java
+Mar 09, 2023 4:08:11 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 702
+2023.03.09 16:08:36 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/App.java
+2023.03.09 16:08:43 INFO  time: code lens generation in 2.81s
+2023.03.09 16:08:46 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/App.java
+Mar 09, 2023 5:14:16 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 848
+2023.03.09 17:14:30 INFO  time: code lens generation in 18s
+Mar 09, 2023 5:14:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 851
+Mar 09, 2023 5:14:54 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 847
+2023.03.09 17:15:00 INFO  time: code lens generation in 6.11s
+Mar 09, 2023 5:15:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 856
+Mar 09, 2023 5:15:50 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 855
+Mar 09, 2023 5:16:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 853
+Mar 09, 2023 5:16:39 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 854
+Mar 09, 2023 5:16:40 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 860
+Mar 09, 2023 5:16:41 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 861
+Mar 09, 2023 5:16:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 857
+Mar 09, 2023 5:16:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 869
+Mar 09, 2023 5:16:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 871
+Mar 09, 2023 5:16:56 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 865
+2023.03.09 17:17:43 INFO  time: code lens generation in 1m4s
+Mar 09, 2023 5:17:45 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 877
+Mar 09, 2023 5:17:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 878
+2023.03.09 17:18:10 INFO  time: code lens generation in 1m15s
+2023.03.09 17:18:10 INFO  time: code lens generation in 1m18s
+2023.03.09 17:18:10 INFO  time: code lens generation in 26s
+Mar 09, 2023 5:18:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 874
+Mar 09, 2023 5:18:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 879
+Mar 09, 2023 5:18:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 873
+2023.03.09 17:18:20 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/App.java
+Mar 09, 2023 5:18:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 885
+Mar 09, 2023 5:18:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 886
+Mar 09, 2023 5:18:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 887
+Mar 09, 2023 5:18:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 888
+Mar 09, 2023 5:18:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 889
+Mar 09, 2023 5:18:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 891
+Mar 09, 2023 5:18:20 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 890
+2023.03.09 17:26:36 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/App.java
+2023.03.09 17:27:10 INFO  time: code lens generation in 1.86s
+2023.03.09 17:28:52 INFO  time: code lens generation in 1.95s
+2023.03.09 17:37:22 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/Loan.java
+2023.03.09 17:37:49 INFO  time: code lens generation in 7.23s
+2023.03.09 17:37:49 ERROR text document: file:///home/jeff/Videos/task2/task/src/main/java/com/pezesha/Loan.java
+java.nio.file.NoSuchFileException: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/Loan.java
+	at sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)
+	at sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:116)
+	at sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:219)
+	at java.nio.file.Files.newByteChannel(Files.java:371)
+	at java.nio.file.Files.newByteChannel(Files.java:422)
+	at java.nio.file.Files.readAllBytes(Files.java:3206)
+	at scala.meta.internal.io.PlatformFileIO$.slurp(PlatformFileIO.scala:45)
+	at scala.meta.internal.io.FileIO$.slurp(FileIO.scala:24)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$2(InteractiveSemanticdbs.scala:90)
+	at scala.Option.getOrElse(Option.scala:201)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.$anonfun$textDocument$1(InteractiveSemanticdbs.scala:90)
+	at java.util.HashMap.compute(HashMap.java:1229)
+	at java.util.Collections$SynchronizedMap.compute(Collections.java:2692)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:89)
+	at scala.meta.internal.metals.InteractiveSemanticdbs.textDocument(InteractiveSemanticdbs.scala:63)
+	at scala.meta.internal.metals.AggregateSemanticdbs.loop$1(AggregateSemanticdbs.scala:30)
+	at scala.meta.internal.metals.AggregateSemanticdbs.textDocument(AggregateSemanticdbs.scala:36)
+	at scala.meta.internal.metals.CodeLensProvider.findLenses(CodeLensProvider.scala:22)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$2(MetalsLspService.scala:1761)
+	at scala.meta.internal.metals.TimerProvider.timedThunk(TimerProvider.scala:25)
+	at scala.meta.internal.metals.MetalsLspService.$anonfun$codeLens$1(MetalsLspService.scala:1759)
+	at scala.meta.internal.metals.CancelTokens$.$anonfun$apply$2(CancelTokens.scala:26)
+	at scala.concurrent.Future$.$anonfun$apply$1(Future.scala:678)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1128)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:628)
+	at java.lang.Thread.run(Thread.java:829)
+
+2023.03.09 17:37:51 INFO  time: code lens generation in 8.19s
+2023.03.09 17:38:17 INFO  time: code lens generation in 3.01s
+2023.03.09 17:39:41 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/Loan.java
+2023.03.09 17:39:47 INFO  time: code lens generation in 2.48s
+2023.03.09 17:39:50 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/Loan.java
+2023.03.09 17:40:22 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/Loan.java
+2023.03.09 17:40:28 INFO  time: code lens generation in 2s
+2023.03.09 17:41:15 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/Loan.java
+2023.03.09 17:41:26 INFO  time: code lens generation in 11s
+2023.03.09 17:43:13 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/LoanCalculator.java
+2023.03.09 17:43:26 INFO  time: code lens generation in 13s
+2023.03.09 17:43:49 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/LoanCalculator.java
+Mar 09, 2023 5:44:08 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1030
+2023.03.09 17:44:21 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/LoanCalculator.java
+2023.03.09 17:44:24 WARN  Running javac-semanticdb failed for file:///home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/LoanCalculator.java. Output:
+/home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/LoanCalculator.java:1: error: ';' expected
+package  com.pezesha.tasktwo
+                            ^
+1 error
+2023.03.09 17:44:32 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/LoanCalculator.java
+2023.03.09 17:45:15 INFO  time: code lens generation in 10s
+2023.03.09 17:49:16 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/Calculator.java
+2023.03.09 17:49:26 INFO  time: code lens generation in 1.07s
+2023.03.09 17:49:36 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/Calculator.java
+2023.03.09 17:50:27 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/Calculator.java
+2023.03.09 17:50:35 WARN  Running javac-semanticdb failed for file:///home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/Calculator.java. Output:
+/home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/Calculator.java:30: error: invalid method declaration; return type required
+    public LoanAssistant() {
+           ^
+1 error
+Mar 09, 2023 5:50:35 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1174
+2023.03.09 17:51:09 INFO  time: code lens generation in 3.33s
+Mar 09, 2023 5:51:17 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1202
+Mar 09, 2023 5:51:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1193
+Mar 09, 2023 5:51:18 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1204
+Mar 09, 2023 5:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1207
+Mar 09, 2023 5:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1208
+Mar 09, 2023 5:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1205
+Mar 09, 2023 5:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1194
+Mar 09, 2023 5:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1213
+Mar 09, 2023 5:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1210
+Mar 09, 2023 5:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1211
+Mar 09, 2023 5:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1215
+Mar 09, 2023 5:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1212
+Mar 09, 2023 5:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1223
+Mar 09, 2023 5:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1227
+Mar 09, 2023 5:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1216
+Mar 09, 2023 5:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1229
+Mar 09, 2023 5:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1224
+Mar 09, 2023 5:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1225
+Mar 09, 2023 5:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1232
+Mar 09, 2023 5:51:23 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1226
+Mar 09, 2023 5:51:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1238
+Mar 09, 2023 5:51:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1239
+Mar 09, 2023 5:51:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1240
+Mar 09, 2023 5:51:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1241
+Mar 09, 2023 5:51:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1242
+Mar 09, 2023 5:51:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1243
+Mar 09, 2023 5:51:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1244
+Mar 09, 2023 5:51:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1245
+Mar 09, 2023 5:51:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1246
+Mar 09, 2023 5:51:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1247
+Mar 09, 2023 5:51:24 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1250
+Mar 09, 2023 5:51:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1267
+Mar 09, 2023 5:51:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1269
+Mar 09, 2023 5:51:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1230
+Mar 09, 2023 5:51:25 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1270
+2023.03.09 17:51:34 INFO  time: code lens generation in 10s
+2023.03.09 17:51:55 INFO  time: code lens generation in 30s
+2023.03.09 17:52:05 INFO  time: code lens generation in 40s
+2023.03.09 17:52:16 INFO  time: code lens generation in 51s
+2023.03.09 17:52:27 INFO  time: code lens generation in 1m2s
+2023.03.09 17:52:37 INFO  time: code lens generation in 1m12s
+2023.03.09 17:52:49 WARN  code navigation does not work for the file '/home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/Calculator.java' because it doesn't belong to a build target.Mar 09, 2023 5:52:48 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1275
+
+Mar 09, 2023 5:52:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1277
+Mar 09, 2023 5:52:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1278
+Mar 09, 2023 5:52:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1279
+Mar 09, 2023 5:52:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1280
+Mar 09, 2023 5:52:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1281
+Mar 09, 2023 5:52:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1272
+Mar 09, 2023 5:52:49 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1286
+2023.03.09 17:52:50 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/Calculator.java
+2023.03.09 17:52:59 WARN  Using indexes to guess the definition of Calculator
+2023.03.09 18:06:15 INFO  Started: Metals version 0.11.11 in workspace '/home/jeff/Videos/task2/task' for client Visual Studio Code 1.76.0.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/jeff/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.09 18:06:22 INFO  time: initialize in 7.04s
+2023.03.09 18:06:27 WARN  Build server is not auto-connectable.
+2023.03.09 18:06:27 WARN  no build target for: /home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/Calculator.java
+2023.03.09 18:06:33 INFO  running '/usr/lib/jvm/java-11-openjdk-amd64/bin/java -Dfile.encoding=UTF-8 -Dmaven.multiModuleProjectDirectory=/home/jeff/Videos/task2/task -Dmaven.home=/tmp/metals1259045228802813137 -cp /tmp/metals1259045228802813137/maven-wrapper.jar org.apache.maven.wrapper.MavenWrapperMain generate-sources ch.epfl.scala:bloop-maven-plugin:2.0.0:bloopInstall -DdownloadSources=true'
+2023.03.09 18:06:41 INFO  time: code lens generation in 11s
+2023.03.09 18:06:41 INFO  time: code lens generation in 7.01s
+2023.03.09 18:06:48 INFO  [INFO] Scanning for projects...
+2023.03.09 18:06:48 INFO  [INFO] 
+2023.03.09 18:06:48 INFO  [INFO] ----------------------< com.pezesha.tasktwo:task >----------------------
+2023.03.09 18:06:48 INFO  [INFO] Building task 1.0-SNAPSHOT
+2023.03.09 18:06:48 INFO  [INFO] --------------------------------[ jar ]---------------------------------
+2023.03.09 18:06:48 INFO  [INFO] 
+2023.03.09 18:06:48 INFO  [INFO] --- bloop-maven-plugin:2.0.0:bloopInstall (default-cli) @ task ---
+2023.03.09 18:06:55 INFO  [INFO] Using empty launcher: no run setup for task.
+2023.03.09 18:06:55 INFO  [ERROR] org.scala-lang:scala([0-9]?)-library is missing from project dependencies
+2023.03.09 18:06:55 INFO  [ERROR] org.scala-lang:scala([0-9]?)-library is missing from project dependencies
+2023.03.09 18:06:55 INFO  [INFO] Resolving artifact: junit:junit:jar:4.11:test (sources = false)
+2023.03.09 18:06:55 INFO  [INFO] SUCCESS: junit:junit:jar:4.11:test (sources = false)
+2023.03.09 18:06:55 INFO  [INFO] Resolving artifact: junit:junit:jar:4.11:test (sources = true)
+2023.03.09 18:06:58 INFO  Downloading from central: https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11-sources.jar
+2023.03.09 18:07:00 INFO  Progress (1): 4.1/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 8.2/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 12/151 kB 
+2023.03.09 18:07:00 INFO  Progress (1): 16/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 20/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 25/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 29/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 33/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 37/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 41/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 45/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 49/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 53/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 57/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 61/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 66/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 70/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 74/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 78/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 82/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 86/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 90/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 94/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 98/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 102/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 106/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 111/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 115/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 119/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 123/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 127/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 131/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 135/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 139/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 143/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 147/151 kB
+2023.03.09 18:07:00 INFO  Progress (1): 151 kB    
+2023.03.09 18:07:00 INFO                      
+2023.03.09 18:07:00 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/junit/junit/4.11/junit-4.11-sources.jar (151 kB at 70 kB/s)
+2023.03.09 18:07:00 INFO  [INFO] SUCCESS: junit:junit:jar:4.11:test (sources = true)
+2023.03.09 18:07:00 INFO  [INFO] Resolving artifact: org.hamcrest:hamcrest-core:jar:1.3:test (sources = false)
+2023.03.09 18:07:00 INFO  [INFO] SUCCESS: org.hamcrest:hamcrest-core:jar:1.3:test (sources = false)
+2023.03.09 18:07:00 INFO  [INFO] Resolving artifact: org.hamcrest:hamcrest-core:jar:1.3:test (sources = true)
+2023.03.09 18:07:00 INFO  Downloading from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar
+2023.03.09 18:07:00 INFO  Progress (1): 4.1/33 kB
+2023.03.09 18:07:00 INFO  Progress (1): 8.2/33 kB
+2023.03.09 18:07:00 INFO  Progress (1): 12/33 kB 
+2023.03.09 18:07:00 INFO  Progress (1): 16/33 kB
+2023.03.09 18:07:00 INFO  Progress (1): 20/33 kB
+2023.03.09 18:07:00 INFO  Progress (1): 25/33 kB
+2023.03.09 18:07:00 INFO  Progress (1): 29/33 kB
+2023.03.09 18:07:00 INFO  Progress (1): 33 kB   
+2023.03.09 18:07:00 INFO                     
+2023.03.09 18:07:00 INFO  Downloaded from central: https://repo.maven.apache.org/maven2/org/hamcrest/hamcrest-core/1.3/hamcrest-core-1.3-sources.jar (33 kB at 141 kB/s)
+2023.03.09 18:07:00 INFO  [INFO] SUCCESS: org.hamcrest:hamcrest-core:jar:1.3:test (sources = true)
+2023.03.09 18:07:00 INFO  [INFO] Generated .bloop/task.json
+2023.03.09 18:07:00 INFO  [INFO] Resolving artifact: junit:junit:jar:4.11:test (sources = false)
+2023.03.09 18:07:00 INFO  [INFO] SUCCESS: junit:junit:jar:4.11:test (sources = false)
+2023.03.09 18:07:00 INFO  [INFO] Resolving artifact: junit:junit:jar:4.11:test (sources = true)
+2023.03.09 18:07:00 INFO  [INFO] SUCCESS: junit:junit:jar:4.11:test (sources = true)
+2023.03.09 18:07:00 INFO  [INFO] Resolving artifact: org.hamcrest:hamcrest-core:jar:1.3:test (sources = false)
+2023.03.09 18:07:00 INFO  [INFO] SUCCESS: org.hamcrest:hamcrest-core:jar:1.3:test (sources = false)
+2023.03.09 18:07:00 INFO  [INFO] Resolving artifact: org.hamcrest:hamcrest-core:jar:1.3:test (sources = true)
+2023.03.09 18:07:00 INFO  [INFO] SUCCESS: org.hamcrest:hamcrest-core:jar:1.3:test (sources = true)
+2023.03.09 18:07:00 INFO  [INFO] Generated .bloop/task-test.json
+2023.03.09 18:07:00 INFO  [INFO] ------------------------------------------------------------------------
+2023.03.09 18:07:00 INFO  [INFO] BUILD SUCCESS
+2023.03.09 18:07:00 INFO  [INFO] ------------------------------------------------------------------------
+2023.03.09 18:07:00 INFO  [INFO] Total time:  12.440 s
+2023.03.09 18:07:00 INFO  [INFO] Finished at: 2023-03-09T18:07:00+03:00
+2023.03.09 18:07:00 INFO  [INFO] ------------------------------------------------------------------------
+2023.03.09 18:07:00 INFO  time: ran 'mvn bloopInstall' in 27s
+2023.03.09 18:07:00 INFO  Attempting to connect to the build server...
+2023.03.09 18:07:00 INFO  Bloop uses /usr/lib/jvm/java-11-openjdk-amd64 defined at /home/jeff/.bloop/bloop.json
+2023.03.09 18:07:24 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jeff/Videos/task2/task/.metals/bsp.trace.json or /home/jeff/.cache/metals/bsp.trace.json
+2023.03.09 18:07:29 INFO  time: Connected to build server in 28s
+2023.03.09 18:07:29 INFO  Connected to Build server: Bloop v1.5.6
+2023.03.09 18:07:29 INFO  time: Imported build in 0.13s
+2023.03.09 18:07:33 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.09 18:07:33 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.09 18:07:33 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.09 18:07:33 INFO  time: indexed workspace in 4.22s
+2023.03.09 18:07:37 INFO  compiling task (3 java sources)
+2023.03.09 18:07:43 INFO  compiling task-test (1 java source)
+2023.03.09 18:07:45 INFO  time: compiled task-test in 2.55s
+2023.03.09 18:07:45 INFO  time: compiled task in 7.99s
+2023.03.09 18:24:31 INFO  time: code lens generation in 3.58s
+Mar 09, 2023 6:25:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 26
+Mar 09, 2023 6:25:37 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 27
+2023.03.09 18:27:37 INFO  compiling task (1 java source)
+2023.03.09 18:27:46 INFO  time: compiled task in 9.38s
+2023.03.09 18:28:02 INFO  compiling task (1 java source)
+2023.03.09 18:28:06 INFO  time: compiled task in 3.53s
+2023.03.09 18:28:34 INFO  compiling task (1 java source)
+2023.03.09 18:28:37 INFO  time: compiled task in 3.25s
+2023.03.09 18:28:59 INFO  compiling task (1 java source)
+2023.03.09 18:28:59 INFO  time: compiled task in 0.54s
+2023.03.09 18:28:59 INFO  compiling task (1 java source)
+2023.03.09 18:29:00 INFO  time: compiled task in 1.02s
+Mar 09, 2023 6:29:29 PM scala.meta.internal.parsing.TokenEditDistance$Diff $anonfun$toRevised$1
+WARNING: stale range: Some([103 (public) <-> [103 (public)) None
+2023.03.09 18:29:29 INFO  file:///home/jeff/Videos/task2/task/src/main/java/com/pezesha/tasktwo/MorgagePaymentCalculator.java:6:1: stale bloop error: class MortgagePaymentCalculator is public, should be declared in a file named MortgagePaymentCalculator.java
+> public class MortgagePaymentCalculator {
+>  
+>    public static double calculateMonthlyPayment(
+>       int loanAmount, int termInYears, double interestRate) {
+>        
+>       // Convert interest rate into a decimal
+>       // eg. 6.5% = 0.065
+>        
+>       interestRate /= 100.0;
+>        
+>       // Monthly interest rate 
+>       // is the yearly rate divided by 12
+>        
+>       double monthlyRate = interestRate / 12.0;
+>        
+>       // The length of the term in months 
+>       // is the number of years times 12
+>        
+>       int termInMonths = termInYears * 12;
+>        
+>       // Calculate the monthly payment
+>       // Typically this formula is provided so 
+>       // we won't go into the details
+>        
+>       // The Math.pow() method is used calculate values raised to a power
+>        
+>       double monthlyPayment = 
+>          (loanAmount*monthlyRate) / 
+>             (1-Math.pow(1+monthlyRate, -termInMonths));
+>        
+>       return monthlyPayment;
+>    }
+>     
+>    public static void main(String[] args) {
+>        
+>       // Scanner is a great class for getting 
+>       // console input from the user
+>        
+>       Scanner scanner = new Scanner(System.in);
+>  
+>       // Prompt user for details of loan
+>        
+>       System.out.print("Enter loan amount: ");
+>       int loanAmount = scanner.nextInt();
+>        
+>       System.out.print("Enter loan term (in years): ");
+>       int termInYears = scanner.nextInt();
+>        
+>       System.out.print("Enter interest rate: ");
+>       double interestRate = scanner.nextDouble();
+>        
+>       // Display details of loan
+>        
+>       double monthlyPayment = 
+>          calculateMonthlyPayment(loanAmount, termInYears, interestRate);
+>        
+>  
+>       // NumberFormat is useful for formatting numbers
+>       // In our case we'll use it for 
+>       // formatting currency and percentage values
+>        
+>       NumberFormat currencyFormat = 
+>          NumberFormat.getCurrencyInstance();
+>       NumberFormat interestFormat = 
+>          NumberFormat.getPercentInstance();
+>  
+>       // Display details of the loan
+>  
+>       System.out.println("Loan Amount: "+
+>          currencyFormat.format(loanAmount));
+>       System.out.println("Loan Term: "+
+>          termInYears+" years");
+>       System.out.println("Interest Rate: "+
+>          interestFormat.format(interestRate));
+>       System.out.println("Monthly Payment: "+
+>          currencyFormat.format(monthlyPayment));
+>  
+>    }
+>  
+> }
+2023.03.09 18:30:00 INFO  compiling task (1 java source)
+2023.03.09 18:30:01 INFO  time: compiled task in 0.99s
+2023.03.09 18:30:01 INFO  compiling task (1 java source)
+2023.03.09 18:30:01 INFO  time: compiled task in 0.41s
+2023.03.09 18:30:29 INFO  compiling task (1 java source)
+2023.03.09 18:30:29 INFO  time: compiled task in 0.99s
+2023.03.10 11:00:03 INFO  Started: Metals version 0.11.11 in workspace '/home/jeff/Videos/task2/task' for client Visual Studio Code 1.76.0.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/jeff/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.10 11:00:10 INFO  time: initialize in 7.27s
+2023.03.10 11:00:14 INFO  Attempting to connect to the build server...
+2023.03.10 11:00:14 INFO  Bloop uses /usr/lib/jvm/java-11-openjdk-amd64 defined at /home/jeff/.bloop/bloop.json
+2023.03.10 11:00:14 INFO  skipping build import with status 'Installed'
+2023.03.10 11:00:39 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jeff/Videos/task2/task/.metals/bsp.trace.json or /home/jeff/.cache/metals/bsp.trace.json
+2023.03.10 11:00:40 INFO  time: Connected to build server in 26s
+2023.03.10 11:00:40 INFO  Connected to Build server: Bloop v1.5.6
+2023.03.10 11:00:40 INFO  time: Imported build in 0.26s
+2023.03.10 11:00:43 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.10 11:00:43 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.10 11:00:43 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.10 11:00:43 INFO  time: indexed workspace in 2.86s
+Mar 10, 2023 6:16:57 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 21
+Mar 10, 2023 7:15:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 163
+2023.03.11 11:15:45 INFO  Started: Metals version 0.11.11 in workspace '/home/jeff/Videos/task2/task' for client Visual Studio Code 1.76.1.
+SLF4J: No SLF4J providers were found.
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See https://www.slf4j.org/codes.html#noProviders for further details.
+SLF4J: Class path contains SLF4J bindings targeting slf4j-api versions 1.7.x or earlier.
+SLF4J: Ignoring binding found at [jar:file:/home/jeff/.cache/coursier/v1/https/repo1.maven.org/maven2/com/outr/scribe-slf4j_2.13/3.11.0/scribe-slf4j_2.13-3.11.0.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See https://www.slf4j.org/codes.html#ignoredBindings for an explanation.
+2023.03.11 11:15:54 INFO  time: initialize in 9.7s
+2023.03.11 11:15:58 INFO  Attempting to connect to the build server...
+2023.03.11 11:15:58 INFO  Bloop uses /usr/lib/jvm/java-11-openjdk-amd64 defined at /home/jeff/.bloop/bloop.json
+2023.03.11 11:15:58 INFO  skipping build import with status 'Installed'
+2023.03.11 11:16:31 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/jeff/Videos/task2/task/.metals/bsp.trace.json or /home/jeff/.cache/metals/bsp.trace.json
+2023.03.11 11:16:33 INFO  time: Connected to build server in 35s
+2023.03.11 11:16:33 INFO  Connected to Build server: Bloop v1.5.6
+2023.03.11 11:16:33 INFO  time: Imported build in 0.31s
+2023.03.11 11:16:38 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.11 11:16:38 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.11 11:16:38 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/src.zip, /usr/lib/jvm/java-11-openjdk-amd64/lib/src.zip. Java symbols will not be available.
+2023.03.11 11:16:38 INFO  time: indexed workspace in 4.13s
+2023.03.11 11:37:53 ERROR timeout: build server 'bloop' during shutdown
