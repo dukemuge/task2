@@ -1,49 +1,61 @@
 package com.pezesha.tasktwo;
 
-import java.util.Scanner;
+import java.util.HashMap;
+import java.util.Map;
 
 public class LoanCalculator {
-    /*
-     A- periodic payment
-     P -principle amount/Loan Balance/starting amount
-     n -> number of payments
-     I -> interest rate
-     */
-    public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        System.out.println("Enter the Loan Amount");
-        double p = input.nextDouble();
+    /*The loan repayment calculator should take the following input parameters:
+            Loan amount - principal
+            Loan term (in months)
+            Interest rate (per year) - i
+            Repayment frequency  -in our case is monthly
+        */
+    public enum Frequency{
+        WEEKLY,MONTHLY,BIWEEKLY
+    }
 
-        System.out.println("Enter no years");
-        double years = input.nextDouble();
+    public static Map<String,Double> calculateTheLoanParameters(double loan, double n, double rateInYear, Frequency f )
+    {
+        Map<String,Double> loanParameters = new HashMap<>();
+        System.out.println("-------------------------------");
 
-         //APR -> Annual percentage for Loan
-        System.out.println("Enter the APR for the Loan");
-        double APR = input.nextDouble();
+        //calculate monthly  payment
+        double monthlyRate = (rateInYear/100.0) / 12;
+        double monthlyPayment = loan* ((monthlyRate * Math.pow(1 + monthlyRate,n))/(Math.pow(1 + monthlyRate,n)-1));
+        System.out.println("The monthly payment  is  " + monthlyPayment);
+        loanParameters.put("monthly_payment",monthlyPayment);
 
-        //calculate the interest i -> per monthly  installments
-        //Assumption is that we are paying monthly percentage(i)
-        double i  = APR/1200 ;
+        //total amount paid
+        double totalAmountPaid = monthlyPayment * n ;
+        System.out.println("The total amount paid is " + totalAmountPaid);
+        loanParameters.put("total_amount_paid",totalAmountPaid);
 
-        double n = years * 12;
+        //the total Interested paid  = totalAmount - Loan)
+        double totalInterestPaid   =  (totalAmountPaid - loan);
+        System.out.println("The total interest paid is "+ totalInterestPaid);
+        loanParameters.put("total_interest_paid",totalInterestPaid);
 
-        //mothly payment
-        double A = p * ((i * Math.pow(1 + i,n))/(Math.pow(1 + i,n)-1));
-// display table showing
-        double interestPayment,principlePayment;
+        System.out.println("----------------------------------------------------------------------");
+
+        System.out.println("TABLE DISPLAYING  PRINCIPLE ,INTEREST,BALANCE");
         System.out.println("#\tprincipal\tInterest\tBalance");
         for (int payment = 1; payment <= n; payment = payment + 1) {
-            interestPayment = i * p ;
-            principlePayment = A  - interestPayment;
-            p = p -principlePayment;
-            System.out.format("%d \t  %.2f \t %.2f  \t %.2f  \t %n" ,payment,principlePayment,interestPayment,p);
+            double interestPayment;
+            double principlePayment;
+            interestPayment = monthlyRate * loan ;
+            principlePayment = monthlyPayment  - interestPayment;
+            loan = loan -principlePayment;
+            System.out.format("%d \t  %.2f \t %.2f  \t %.2f  \t %n" ,payment,principlePayment,interestPayment,loan);
 
         }
 
-        input.close();
+        System.out.println("-------------------------------------------------------------------");
 
+ return loanParameters;
+    }
 
-
+    public static void main(String[] args) {
+        System.out.println(LoanCalculator.calculateTheLoanParameters(20000,60,5,Frequency.MONTHLY));
 
 
     }
